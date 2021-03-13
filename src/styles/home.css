@@ -1,8 +1,14 @@
+.home {
+    padding-top: 50px;
+}
+
 .img {
-    width: 500px;
-    height: 500px;
+    width: 400px;
+    height: 400px;
     display: block;
     margin: 0 auto;
+    border-radius: 25px;
+    border: solid 3px #2c3e50;
 }
 
 .msg {

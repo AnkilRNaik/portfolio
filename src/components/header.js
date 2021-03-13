@@ -1,8 +1,10 @@
+import React from 'react';
 import '../styles/header.css';
 
 const Header = () => {
     return (
-        <div className="container">
+        <div className="header">
+            <h1 className="pane">HOME</h1>
         </div>
     );
 }
