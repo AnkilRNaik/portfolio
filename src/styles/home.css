@@ -1,4 +1,16 @@
 .img {
     width: 500px;
     height: 500px;
+    display: block;
+    margin: 0 auto;
+}
+
+.msg {
+    display: block;
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 2em;
+    font-weight: 700;
+    color: #2c3e50;
+    text-align: center;
 }
