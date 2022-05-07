@@ -1,8 +1,39 @@
 .aboutMeMsg {
-  display: block;
-  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-  font-size: 1.0em;
-  font-weight: 700;
+  font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 1.2em;
+  font-weight: 400;
   color: #2c3e50;
+  text-align: justify;
+  display: block;
+  margin-top: 100px;
+  margin-left: 100px;
+  margin-right: 800px;
+}
+
+.borderImg {
+  width: 650px;
+  height: 650px;
+  display: block;
+  float: right;
+  margin-top: -410px;
+  margin-right: 100px;
+  margin-bottom: 100px;
+  border-radius: 25px;
+  border: solid 3px #2c3e50;
+}
+
+.h {
+  text-transform: uppercase;
+  font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  color: #18BC9C;
+}
+
+.buttonH {
+  margin-right: 500px;
+  margin-left: 500px;
+  position: relative;
   text-align: center;
+  text-decoration: none;
+  color: inherit;
 }
