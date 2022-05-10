@@ -8,7 +8,7 @@ function AboutMe() {
     <div>
       <p className="aboutMeMsg">{aboutMeText}</p>
       <img src={img} className="borderImg" />
-      <a href="" target="_blank" className="buttonH"><h3 className="h">Click to see my Resume</h3></a>
+      {/* <a href="" target="_blank" className="buttonH"><h3 className="h">Click to see my Resume</h3></a> */}
     </div>
   );
 }
