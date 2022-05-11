@@ -1,0 +1,20 @@
+{
+  "experience": [{
+      "company": "Ford Motor Company",
+      "title": "Mobility Software Engineer",
+      "duties": "Developed RESTful APIs using Java 1.8, Spring Boot 2.0./Used Gradle 4.5 and Nexus Repository for building and publishing the application artifacts."
+    }, {
+      "company": "Perficient",
+      "title": "Technical Consultant"
+    }, {
+      "company": "Forbes",
+      "title": "Software Engineering Intern"
+    }, {
+      "company": "New Jersey Institute of Technology",
+      "title": "Research Team Member"
+    }, {
+      "company": "Gujarat Computer & Softwares Ltd.",
+      "title": "Software Engineer"
+    }
+  ]
+}

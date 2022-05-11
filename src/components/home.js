@@ -1,13 +1,12 @@
 import React from 'react';
-import '../styles/home.css';
 import profileImage from '../images/ankil.jpeg';
 
 function Home() {
   const message = "Hello! My name is...Ankil Naik.";
   return (
-    <div className="home">
-      <img src={profileImage} className="img"></img>
-      <p className="msg">{message}</p>
+    <div>
+      <img src={profileImage}></img>
+      <p>{message}</p>
     </div>
   );
 }
