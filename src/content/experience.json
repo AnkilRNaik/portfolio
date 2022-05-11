@@ -2,19 +2,28 @@
   "experience": [{
       "company": "Ford Motor Company",
       "title": "Mobility Software Engineer",
-      "duties": "Developed RESTful APIs using Java 1.8, Spring Boot 2.0./Used Gradle 4.5 and Nexus Repository for building and publishing the application artifacts."
+      "dates": "April 2021 - Present",
+      "duties": "Worked on the design and implementation of APIs that process charge transactions, creates invoices and bills EV customers who have subscriptions to charging networks partnered with the company. Used Java, Spring Boot, Micro-Services Architecture and Test-Driven Development to build highly responsive and scalable APIs./Handled sync and async communication between micro-services using RabbitMQ, Spring Retry and Azure Service Bus./Configured Concourse CI and Jenkins to create pipelines and set up automated workflows for Continuous Integration and Delivery with Pivotal Cloud Foundry."
     }, {
       "company": "Perficient",
-      "title": "Technical Consultant"
+      "title": "Technical Consultant",
+      "dates": "March 2017 - April 2021",
+      "duties": "Worked on the Subscriptions Services Platform that orchestrates the events for activation of features in a vehicle./Developed RESTful services using Java and Spring Boot./Monitored applications using Splunk and Dynatrace and used Redis to cache products for purchasing subscriptions./Writing Unit, Functional and Integration tests using JUnit, Mockito and REST Assured."
     }, {
       "company": "Forbes",
-      "title": "Software Engineering Intern"
+      "title": "Software Engineering Intern",
+      "dates": "May 2016 - August 2016",
+      "duties": "Implemented various types of tracking like click, scroll, etc. for monitoring user traffic on Forbes website using JavaScript, Google Tag Manager and Google Analytics./Migrated existing legacy Forbes website to multiple services using JavaScript and Less."
     }, {
       "company": "New Jersey Institute of Technology",
-      "title": "Research Team Member"
+      "title": "Research Team Member",
+      "dates": "January 2016 - December 2016",
+      "duties": "Created a Web application using MVC architecture to facilitate learning of Cyber Security using concept of web semantic and ontologies. Used API of various sources such as Google, Twitter, etc. and integrated them together in one portal./Integrated Apache OpenNLP packages with Java for extracting Nouns, Verbs from a pool of data to show them on the web pages."
     }, {
       "company": "Gujarat Computer & Softwares Ltd.",
-      "title": "Software Engineer"
+      "title": "Software Engineer",
+      "dates": "January 2014 - December 2014",
+      "duties": "Worked on a Web Application based on Spring framework, an application used to create and manage a database of employees with details like Employees’ Name, ID, Department./Executed MySQL query plans required to prepare employees’ weekly and monthly attendance count."
     }
   ]
 }

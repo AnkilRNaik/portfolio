@@ -7,7 +7,7 @@ function Experience() {
       experience.map((item, i) => (
         <div key={i}>
           <h2>{item.company}</h2>
-          <h4>{item.title}</h4>
+          <h4>{item.title}: {item.dates}</h4>
           <ul>
             {item.duties ? item.duties.split("/").map(duty => <li> {duty} </li>) : ""}
           </ul>

@@ -1,0 +1,13 @@
+{
+  "education": [{
+      "university": "New Jersey Institute of Technology",
+      "degree": "Master of Science",
+      "major": "Computer Science",
+      "dateGraduated": "December 2016"
+    }, {
+      "university": "University of Pune",
+      "degree": "Bachelor of Engineering",
+      "major": "Computer",
+      "dateGraduated": "May 2013"
+    }]
+}
