@@ -9,16 +9,18 @@ import Contact from './components/contact.js';
 
 const App = () => {
   return (
-    <Router basename="/portfolio">
+    // <Router basename="/portfolio">
+    <div>
       <Header />
       <Routes>
-        <Route exact path="*" element={<Home />} />
+        <Route exact path="/" element={<Home />} />
         <Route path="/about-me" element={<AboutMe />} />
         <Route path="/experience" element={<Experience />} />
         <Route path="/education" element={<Education />} />
         <Route path="/contact" element={<Contact />} />
       </Routes>
-    </Router>
+      </div>
+    // </Router>
   );
 }
 
