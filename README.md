@@ -1,2 +1,2 @@
-# react-portfolio
+# portfolio
 Migrating my existing portfolio to React.
