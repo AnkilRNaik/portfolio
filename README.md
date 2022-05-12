@@ -1,2 +1,2 @@
 # portfolio
-Migrating my existing portfolio to React.
+Migrating my existing portfolio to React
